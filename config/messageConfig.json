@@ -1,0 +1,5 @@
+{
+    "subject": "A test e-mail",
+    "text": "Plain text message",
+    "html": "\<body\>\<h1\>HTML custom message\<\/h1\>\<\/body\>"
+}

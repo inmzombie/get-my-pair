@@ -1,0 +1,21 @@
+{
+  "name": "get-my-pair",
+  "version": "1.0.0",
+  "description": "create random pair for pair programing",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-nodemailer": "^0.3.0",
+    "load-grunt-tasks": "^3.3.0"
+  },
+  "devDependencies": {
+    "grunt-compile-handlebars": "^2.0.0",
+    "grunt-nodemailer": "^0.3.0",
+    "load-grunt-tasks": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
