@@ -9,9 +9,11 @@
     "load-grunt-tasks": "^3.3.0"
   },
   "devDependencies": {
+    "grunt-assemble": "^0.4.0",
     "grunt-compile-handlebars": "^2.0.0",
     "grunt-nodemailer": "^0.3.0",
-    "load-grunt-tasks": "^3.3.0"
+    "load-grunt-tasks": "^3.3.0",
+    "lodash": "^3.10.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

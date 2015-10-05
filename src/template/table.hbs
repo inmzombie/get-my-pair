@@ -1,0 +1,16 @@
+<table style="width:60%; border-collapse: collapse; padding: 0px;">
+    <thead>
+        <tr>
+            <th colspan="2" style="background-color:#ccc">Pairing List</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each pair-data }}
+        <tr>
+            {{#each . }}
+            <td style="padding: 0px; border: 1px solid #ccc;border-collapse: collapse; width:50%">{{name}}</td>
+            {{/each}}
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
